@@ -1,6 +1,14 @@
+Modifications from Petonic
+==========================
+
+Intended modifications to be used with nfs mounts.  WIll have to extend this utility as 
+the remote-atom package.
+
+
+
 rmate
 =====
-
+d
 The ``rmate`` program enables editing files on a remote computer with
 TextMate 2 via an SSH connection. This is a port of `the official Ruby
 version`_ and was made for system that cannot (or just preferably do not) have
